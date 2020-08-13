@@ -1,0 +1,10 @@
+C:\Users\danch\source\repos\Sig\Sig\bin\Debug\Sig.exe.config
+C:\Users\danch\source\repos\Sig\Sig\bin\Debug\Sig.exe
+C:\Users\danch\source\repos\Sig\Sig\bin\Debug\Sig.pdb
+C:\Users\danch\source\repos\Sig\Sig\obj\Debug\Sig.csprojAssemblyReference.cache
+C:\Users\danch\source\repos\Sig\Sig\obj\Debug\Sig.Properties.Resources.resources
+C:\Users\danch\source\repos\Sig\Sig\obj\Debug\Sig.csproj.GenerateResource.cache
+C:\Users\danch\source\repos\Sig\Sig\obj\Debug\Sig.csproj.CoreCompileInputs.cache
+C:\Users\danch\source\repos\Sig\Sig\obj\Debug\Sig.exe
+C:\Users\danch\source\repos\Sig\Sig\obj\Debug\Sig.pdb
+C:\Users\danch\source\repos\Sig\Sig\obj\Debug\Sig.Form1.resources
